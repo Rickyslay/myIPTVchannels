@@ -1,0 +1,379 @@
+#EXTM3U#EXT-X-ALLOW-CACHE:No
+#EXTINF:-1,[COLOR red]Criado por: RICARDO GARCIA[/COLOR]
+
+#EXTINF:0,group-title=” PORTUGAL ”,[COLOR BLUE][B]———-PORTUGAL——-[/B][/COLOR]
+http://?
+#EXTINF:-1, RTP1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1, RTP2
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1, RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+#EXTINF:-1, SIC
+http://213.13.26.7:1936/live/_definst_/sic/playlist.m3u8
+#EXTINF:-1, TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1, RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1, SIC NOTICIAS
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+#EXTINF:-1, SIC MULHER
+
+#EXTINF:-1, SIC RADICAL
+
+#EXTINF:-1, TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-0, TVI FICÇÃO
+
+#EXTINF:-1 , A QUINTA
+rtmp://62.210.88.244:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDE1IDk6MjE6MzAgUE0maGFzaF92YWx1ZT1IcmRTSkpuRVkvUklQZVBiQ3dXdEVnPT0mdmFsaWRtaW51dGVzPTMwMA==/ playpath=TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430 timeout=15
+#EXTINF:-0, TVI+
+
+#EXTINF:-1, RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1, RTP MEMORIA
+
+#EXTINF:-1, RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1, RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1, TV Globo
+http://srvlon1.hostseven.org:1935/live/101010/livestream.m3u8
+#EXTINF:-1, EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
+#EXTINF:-1, PORTO CANAL
+
+#EXTINF:-1, CMTV
+
+
+#EXTINF:-1 group-title="FILMES E SERIES", FILMES E SERIES
+
+#EXTINF:-1, TVCINE 1
+
+#EXTINF:-1, TVCINE 2
+
+#EXTINF:-1, TVCINE 3
+
+#EXTINF:-1, TVCINE 4
+
+#EXTINF:-1, TVCINE SERIES
+
+
+#EXTINF:-1,TLC
+
+#EXTINF:-1,LIFETIME
+
+#EXTINF:-1, MOV
+
+#EXTINF:-1, SyFy
+
+#EXTINF:-1, AXN
+
+#EXTINF:-0, AXN BLACK
+
+#EXTINF:-0, AXN WHITE
+#EXTINF:-1,FOX LIFE
+
+#EXTINF:-1,FOX CRIME
+
+#EXTINF:-1,FOX MOVIES
+
+#EXTINF:-1,FOX
+
+#EXTINF:-1,FOX ACTION
+
+#EXTINF:-1,FOX CINEMA
+
+#EXTINF:-1,FOX CLASSICS
+
+
+#EXTINF:0,group-title=” SATELITE ESPANHA ”,[COLOR red][B]———-SATELITE ESPANHA——-[/B][/COLOR]
+http://?
+#EXTINF:-1,Fox
+http://iptv.latino-webtv.com/mariocs.php?canal=FOXHDLA&cm=3947&f=mariocs.m3u8
+#EXTINF:-1,Fox 1
+http://iptv.latino-webtv.com/mariocs.php?canal=FOX1LASD&cm=433&f=mariocs.m3u8
+#EXTINF:-1,Cinecanal
+http://iptv.latino-webtv.com/mariocs.php?canal=CineCanalLA&cm=2495&f=mariocs.m3u8
+#EXTINF:-1,AXN
+http://iptv.latino-webtv.com/mariocs.php?canal=AXNLA&cm=2493&f=mariocs.m3u8
+#EXTINF:-1,Universal Channel
+http://iptv.latino-webtv.com/mariocs.php?canal=UniversalLASD&cm=387&f=mariocs.m3u8
+#EXTINF:-1,HBO
+http://iptv.latino-webtv.com/mariocs.php?canal=HBOLASD&cm=385&f=mariocs.m3u8
+#EXTINF:-1,HBO 2
+http://iptv.latino-webtv.com/mariocs.php?canal=HBO2SD&cm=365&f=mariocs.m3u8
+#EXTINF:-1,HBO Plus
+http://iptv.latino-webtv.com/mariocs.php?canal=HBOPlusLASD&cm=453&f=mariocs.m3u8
+#EXTINF:-1,HBO Plus 2
+http://iptv.latino-webtv.com/mariocs.php?canal=HBOPus2LASD&cm=369&f=mariocs.m3u8
+#EXTINF:-1,HBO Family
+http://iptv.latino-webtv.com/mariocs.php?canal=HBOFamilyLASD&cm=449&f=mariocs.m3u8
+#EXTINF:-1,HBO Signature
+http://iptv.latino-webtv.com/mariocs.php?canal=HBOSignatureLASD&cm=451&f=mariocs.m3u8
+#EXTINF:-1,MaxPrime
+http://iptv.latino-webtv.com/mariocs.php?canal=MaxPrimeLASD&cm=377&f=mariocs.m3u8
+#EXTINF:-1,MAX
+http://iptv.latino-webtv.com/mariocs.php?canal=MaxLASD&cm=381&f=mariocs.m3u8
+#EXTINF:-1,Max UP
+http://iptv.latino-webtv.com/mariocs.php?canal=MaxUPSD&cm=469&f=mariocs.m3u8
+#EXTINF:-1,TNT
+http://iptv.latino-webtv.com/mariocs.php?canal=TNTAmericaLatinaHD&cm=262&f=mariocs.m3u8
+#EXTINF:-1,TNT Series
+http://iptv.latino-webtv.com/mariocs.php?canal=infinitoSD&cm=331&f=mariocs.m3u8
+#EXTINF:-1,FX
+http://iptv.latino-webtv.com/mariocs.php?canal=FXLASD&cm=431&f=mariocs.m3u8
+#EXTINF:-1,Sony
+http://iptv.latino-webtv.com/mariocs.php?canal=SonyLA&cm=2501&f=mariocs.m3u8
+#EXTINF:-1,Space
+http://iptv.latino-webtv.com/mariocs.php?canal=SpaceLA&cm=2489&f=mariocs.m3u8
+#EXTINF:-1,Warner Channel
+http://iptv.latino-webtv.com/mariocs.php?canal=WarnerLA&cm=2499&f=mariocs.m3u8
+#EXTINF:-1,AMC
+http://iptv.latino-webtv.com/mariocs.php?canal=AMCLASD&cm=485&f=mariocs.m3u8
+#EXTINF:-1,Cinemax
+http://iptv.latino-webtv.com/mariocs.php?canal=CinemaxLASD&cm=343&f=mariocs.m3u8
+#EXTINF:-1,Fox Action
+http://iptv.latino-webtv.com/mariocs.php?canal=FOXACTIONLASD&cm=435&f=mariocs.m3u8
+#EXTINF:-1,Fox Cinèma
+http://iptv.latino-webtv.com/mariocs.php?canal=FoxCinemaSD&cm=457&f=mariocs.m3u8
+#EXTINF:-1,Fox Classics
+http://iptv.latino-webtv.com/mariocs.php?canal=FOXClassicsLASD&cm=465&f=mariocs.m3u8
+#EXTINF:-1,Fox Family
+http://iptv.latino-webtv.com/mariocs.php?canal=FOXFamilyLASD&cm=467&f=mariocs.m3u8
+#EXTINF:-1,Fox Movies
+http://iptv.latino-webtv.com/mariocs.php?canal=FOXMoviesLASD&cm=463&f=mariocs.m3u8
+#EXTINF:-1,Golden
+http://iptv.latino-webtv.com/mariocs.php?canal=GoldenHD&cm=264&f=mariocs.m3u8
+#EXTINF:-1,Golden Edge
+http://iptv.latino-webtv.com/mariocs.php?canal=GoldenEdgeLA&cm=1465&f=mariocs.m3u8
+#EXTINF:-1,Golden Premier 1
+http://iptv.latino-webtv.com/mariocs.php?canal=GoldenPremier1LA&cm=4777&f=mariocs.m3u8
+#EXTINF:-1,Golden Premier 2
+http://iptv.latino-webtv.com/mariocs.php?canal=GoldenPremiere2LA&cm=4772&f=mariocs.m3u8
+#EXTINF:-1,Studio Universal
+http://iptv.latino-webtv.com/mariocs.php?canal=StudioUniversalSD&cm=345&f=mariocs.m3u8
+#EXTINF:-1,Paramount Channel
+http://iptv.latino-webtv.com/mariocs.php?canal=ParamountChannelLatinAmericaHD&cm=260&f=mariocs.m3u8
+#EXTINF:-1,ULTRA CINE HD
+http://vemoxhlslive-i.akamaihd.net:80/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream3/streamPlaylist.m3u8
+#EXTINF:-1,ULTRA FIESTA HD
+http://vemoxhlslive-i.akamaihd.net:80/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream3/streamPlaylist.m3u8
+
+#EXTINF:0,group-title=” DESPORTO ”,[COLOR BLUE][B]———-DESPORTO——-[/B][/COLOR]
+ http://?
+#EXTINF:-1, BOLA TV
+
+#EXTINF:-1, BTV 1
+rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7816g463sp6829l7816on276x6829ib6829b885pp6829l7816op6829l7816op6829l7816od7816g463sn463h608o&width=600&height=460&st=a49315n4w574x2s2f436q24693u504a4s446u4n4n4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=84q2n584b4m59464745434c4t2i5z2n2c4o4p3a3f4w21374f476w226d3j495e4h3r4r406p4y3x223a4n284a4a444x2s24464n2c4b3y4e3h44494v213p4v2x4o4x5a5g4q4v4s406m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTU=&str=is&ok=&cat=16&link=1&idom=magellan
+#EXTINF:-1, BTV 2
+rtmp://209.95.43.170:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d318g307sp7582l318on881x7582ib7582b586pp7582l318op7582l318op7582l318od318g307sn307h116o&width=600&height=460&st=1473e4n4w574x2s2f436q24693u5s44465i5h3i4q2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=546474n574c4t254n594r274w234b4n234m423a3f4w21374f476w226d3j41684v354e3v5s2y3x223a4n284a4a444x2s24464n23493b4e3h44494v213p4v2x4o4x526a44594f3v5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=Mg==&str=is&ok=&cat=16&link=1&idom=/magellan
+#EXTINF:-1, SPORTING TV HD
+
+#EXTINF:-1, SPORTV1 
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1, SPORTV2
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1, SPORTV3 
+rtmp://209.95.46.115:1935/stream/ playpath=jJyBo1519y0yBo7ol7yTf.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460&st=n5f376n4w574x2s2f436q24693u533h4r5b4v4s364s2x2b4f444y26403q2a4v2q2v2&adx=&stream=24y2c4k584o55464b454r2k5x2c4e4n2p5u4v4a3f4w21374f476w226d3j4c4l4g4y2s45584y3x223a4n284a4a444x2s24464n2p5h346e3h44494v213p4v2x4o4x5d4n4p523t455m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=MQ==&str=is&ok=&cat=16&link=3&idom=/magellan
+#EXTINF:-1, SPORTV4
+rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h564f4d4a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y3x223a4n284a4a444x2s24464n234n4q5e3h44494v213p4v2x4o4x585j3k5b4u2r5m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=OA==&str=is&ok=&cat=16&link=4&idom=/magellan
+#EXTINF:-1, SPORTV5
+rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d6157g430sp6639l6157on686x6639ib6639b16pp6639l6157op6639l6157op6639l6157od6157g430sn430h610o&width=600&height=460&st=14b326n4w574x2s2f436q24693u5f4y216k5j394m3s2x2b4f444y26403q2a4v2q2v2&adx=&stream=a474a464b49403y2o5j57494v254e4n234q4q4a3f4w21374f476w226d3j4o523q474g3m5o3y3x223a4n284a4a444x2s24464n234d3z5e3h44494v213p4v2x4o4x5p543z5b4h3m5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTk=&str=is&ok=&cat=16&link=1&idom=/magellan
+#EXTINF:-1, SPORTV AMERICAS
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1, REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?)
+#?EXTINF?:-1, Sky Sport 1
+http://46.28.55.160:1935/iptv/skysp1/playlist.m3u8
+#EXTINF:-1, Sky Sport 2
+http://46.28.55.160:1935/iptv/skysp2/playlist.m3u8
+#EXTINF:-1, Sky Sport 3
+http://46.28.55.160:1935/iptv/skysp3/playlist.m3u8
+#EXTINF:-1, Sky Sport 4
+http://46.28.55.160:1935/iptv/skysp4/playlist.m3u8
+#EXTINF:-1, Sky Sport 5
+http://46.28.55.160:1935/iptv/skysp5/playlist.m3u8
+#EXTINF:-1, Sky Sport F1
+http://46.28.55.160:1935/iptv/skysportsf1/playlist.m3u8
+#EXTINF:-1, BT Sport 1
+http://46.28.55.160:1935/iptv/bt1/playlist.m3u8
+#EXTINF:-1, BT Sport 2
+http://46.28.55.160:1935/iptv/bt2/playlist.m3u8
+#EXTINF:-1,UFC Network
+http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
+#EXTINF:-1 , FIGHT NETWORK
+http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
+#EXTINF:-1, Canal Combate 
+http://bit.ly/IPTVGlobal-combate
+#EXTINF:-1, WWE
+#EXTINF:-1,NBA HD
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
+#EXTINF:-1, EUROSPORT
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:0,group-title=” ACESTREAM ”,[COLOR orange][B]———-ACESTREAM——-[/B][/COLOR]
+http://?
+#EXTINF:-1 group-title="ACESTREAM", [COLOR orange] SPORT TV 1 [/COLOR] 
+acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6
+#EXTINF:-1 group-title="ACESTREAM", [COLOR orange] SPORT TV 2 [/COLOR] 
+acestream://ed5acde0ca3f6092b278e4e705cdd1002ebb1ff2
+#EXTINF:-1 group-title="ACESTREAM", [COLOR orange] SPORT TV 3 [/COLOR] 
+acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1
+#EXTINF:-1 group-title="ACESTREAM", [COLOR orange] SPORT TV 4 [/COLOR] 
+acestream://0e9bac041c943b759e65c28631d79376b5392460
+#EXTINF:-1 group-title="ACESTREAM", [COLOR orange] SPORT TV 5 [/COLOR] 
+acestream://bf41112287550c64b2e18e81706e10356dbb8bbc
+#EXTINF:-1 group-title="ACESTREAM", [COLOR orange] BENFICA TV 1 [/COLOR] 
+acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415
+#EXTINF:-1 group-title="ACESTREAM", [COLOR orange] BENFICA TV 2 [/COLOR] 
+acestream://c1646f459c86ab24533650333957a57b457d80c1
+
+
+#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR green]Canais BR [/COLOR]
+http://?
+#EXTINF:-1 group-title=Canais BR,[COLOR green] CHEF TV [/COLOR]
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8?BRASILIPTV
+#EXTINF:-1 group-title=Canais BR,[COLOR green] CHEFE COZINHA [/COLOR]
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+#EXTINF:-1 group-title=Canais BR,[COLOR green] OMELETE CINEMA [/COLOR]
+http://wowza1.videos.movile.com:8080/live/cinema_1.smil/livestream.m3u8?BRASILIPTV
+#EXTINF:-1 group-title=Canais BR,[COLOR green] REDE TV [/COLOR]
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
+#EXTINF:-1 group-title=Canais BR,[COLOR green] TV GLOBO [/COLOR]
+rtmp://srv6.zoeweb.tv/z821-live/stream2
+#EXTINF:-1 group-title=Canais BR,[COLOR green] RECORD TV [/COLOR]
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
+#EXTINF:-1 group-title=Canais BR,[COLOR green] TV BRASIL [/COLOR]
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#EXTINF:-1 group-title=Canais BR,[COLOR green] GAZETA TV [/COLOR]
+http://shflash.directradios.com:1935/gazeta3/stream/PAZ_Chega_de_Guerras.m3u8#megaIPTVArgentina
+#EXTINF:-1 group-title=Canais BR,[COLOR green] SBT [/COLOR]
+rtmp://192.99.46.182/pioneira-tv//pioneira-tv
+#EXTINF:-1 group-title=Canais BR,[COLOR green] NOVO TEMPO [/COLOR]
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:-1 group-title=Canais BR,[COLOR green] TV ESCOLA [/COLOR]
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+#EXTINF:-1 group-title=Canais BR,[COLOR green] RECORD NEWS [/COLOR]
+rtmp://flash.midiaip.com.br/recordnewses/recordnewses
+#EXTINF:-1 group-title=Canais BR,[COLOR green] AMAZONA TV [/COLOR]
+http://livela.sambatech.com.br:80/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8
+
+#EXTINF:0,group-title=” MUSICA ”,[COLOR purple][B]———-MUSICA——-[/B][/COLOR]
+http://?
+
+#EXTINF:-1, MTV DANCE
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MTVDANCE/variant.m3u8?version=2
+
+#EXTINF:-1, VeVo 1 HD
+http://pvr.tvip.ga/9001.m3u8
+#EXTINF:-1,Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1, VH1 CLASSIC
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
+#EXTINF:-1, HOT HOT HOT
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1, ONE HIP HOP MUSIC
+http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
+#EXTINF:-1, AFRICA MUSIC
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:-1, FASHION TV
+rtmp://95.67.8.43:1935/live/fashionhd
+
+#EXTINF:0,group-title=” ANIMAÇÃO ”,[COLOR yellow][B]———-ANIMAÇÃO——-[/B][/COLOR]
+http://?
+
+
+#EXTINF:-1, ZOOMOO
+http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8
+
+#EXTINF:-0, PANDA 
+
+#EXTINF:-1, PANDA BIGGS
+
+#EXTINF:-1, NICKELODEON
+http://iptv.latino-webtv.com/stalker.php?ch=NickelodeonLA&id=1423
+#EXTINF:-0, DISNEY CHANNEL
+http://iptv.latino-webtv.com/stalker.php?ch=DisneyChannelNorteHD&id=256
+#EXTINF:-1, DISNEY XD
+http://iptv.latino-webtv.com/stalker.php?ch=DisneyXDSD&id=499
+#EXTINF:-1, DISNEY JUNIOR
+http://bit.ly/IPTVGlobal-disneyjr
+#EXTINF:-1, CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:0,group-title=” DOCUMENTÁRIOS ”,[COLOR white][B]———-DOCUMENTÁRIOS——-[/B][/COLOR]
+http://?
+
+#EXTINF:-1, FOOD NETWORK
+
+#EXTINF:-1, DISCOVERY THEATER
+http://iptv.latino-webtv.com/stalker.php?ch=DiscoveryenEspanolHD&id=3798
+#EXTINF:-1, DISCOVERY SCIENCE
+http://88.147.129.136/hls/CH_C05_DISCOVERYSCIENCEHD/playlist.m3u8?version=2
+#EXTINF:-1, DISCOVERY KIDS
+http://iptv.latino-webtv.com/stalker.php?ch=DiscoveryenEspanolHD&id=3798
+#EXTINF:-1, DISCOVERY CHANNEL
+http://31.220.40.118:80/LiveEdge/DiscoveryChLA/playlist.m3u8?token=9dfdebd040ee911a778a5a10093197ce
+#EXTINF:-1, TRAVEL CHANNEL
+http://wownet.ro/str/0420.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1, ANIMAL PLANET
+http://88.147.129.136/hls/CH_C03_ANIMALPLANETHD/playlist.m3u8?version=2
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://188.17.143.39/hls/CH_C04_NGCHD/variant.m3u8?version=2
+#EXTINF:-1, NAT GEO WILD
+http://88.147.129.136/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+#EXTINF:-1, HISTORY
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=246&lan=2&rows=40&f=.m3u8
+
+#EXTINF:0,group-title=” PINK ”,[COLOR pink][B]———-PINK——-[/B][/COLOR]
+http://?
+#EXTINF:-1,Pink Kids
+http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
+#EXTINF:-1,Pink Horror
+http://178.253.194.68:1935/liveloworigin/pinkhorror.stream/playlist.m3u8
+#EXTINF:-1,Pink Pedia
+http://178.253.194.68:1935/liveloworigin/pinkpedia.stream/playlist.m3u8
+#EXTINF:-1,Pink Comedy
+http://178.253.194.68:1935/liveloworigin/pinkcomedy.stream/playlist.m3u8
+#EXTINF:-1,Pink Premium
+http://178.253.194.68:1935/liveloworigin/pinkpremium.stream/playlist.m3u8
+#EXTINF:-1,Pink Reality
+http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
+#EXTINF:-1,Pink Film
+http://178.253.194.68:1935/liveloworigin/pinkfilm.stream/playlist.m3u8
+#EXTINF:-1,Pink Classic
+http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
+#EXTINF:-1,Pink Movies
+http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
+#EXTINF:-1,Pink Action
+http://178.253.194.68:1935/liveloworigin/pinkaction.stream/playlist.m3u8
+#EXTINF:-1,Pink 2
+http://178.253.194.68:1935/liveloworigin/pink2.stream/playlist.m3u8
+#EXTINF:-1,Pink Family
+http://178.253.194.68:1935/liveloworigin/pinkfamily.stream/playlist.m3u8
+#EXTINF:-1,Pink Fashion
+http://178.253.194.68:1935/liveloworigin/pinkfashion.stream/playlist.m3u8
+#EXTINF:-1,Pink Music
+http://178.253.194.68:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
+#EXTINF:-1,Pink Music 2
+http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
+#EXTINF:-1,Pink BH
+http://178.253.194.68:1935/liveloworigin/pinkbih.stream/playlist.m3u8
+#EXTINF:-1,Pink Kids
+http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u
+
+ 
+#EXTINF:0,group-title=” ADULTOS ”,[COLOR cyan][B]———-ADULTOS——-[/B][/COLOR]
+http://?
+
+
+#EXTINF:-1, Brazzers Europe
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1, PASSI XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1, Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
